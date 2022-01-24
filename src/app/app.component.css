@@ -1,0 +1,25 @@
+ul{
+    list-style: none;
+    /* display: flex;
+    flex-direction: row;
+    gap: 10px; */
+}
+li{
+    white-space: nowrap;
+}
+a{
+    display: block;
+    background-color: #172c49;
+    color: white;
+    padding: 8px 10px;
+}
+ul li b{
+ display: block;
+ margin-top: 0.45em;
+}
+ul li a{
+    margin-top: 0.5em;
+    position: relative;
+    font-size: 20px;
+    
+}
